@@ -1,0 +1,20 @@
+# Dependencies — huge folder, not needed on GitHub
+node_modules/
+
+# Raw test artifacts — videos and screenshots of failures
+# These are too large to upload
+test-results/
+
+# Playwright browser binaries — too large
+.playwright/
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+

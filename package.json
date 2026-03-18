@@ -1,0 +1,11 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "npx playwright test",
+  "test:ui": "npx playwright test --project=UI",
+  "test:api": "npx playwright test --project=API",
+  "report": "npx playwright show-report reports"
+}
+}
