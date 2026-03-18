@@ -141,7 +141,7 @@ npx playwright show-report reports
 ## Test Execution Screenshots
 
 ![All Tests](test_execution_reports/Screenshot_UI_Automation_login_logout.png)
-![All Tests]()
+![All Tests](test_execution_reports/Screenshot_UI_Automation_Employee.png)
 ![All Tests](test_execution_reports/Screenshot_API_Automation_pet.png)
 ![All Tests](test_execution_reports/Screenshot_API_Automation_store.png)
 
